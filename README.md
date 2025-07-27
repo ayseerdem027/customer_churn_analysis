@@ -12,7 +12,6 @@ Saved model and preprocessor for reuse
 Streamlit app for easy prediction input and results display
 
 Installation:
-
 git clone https://github.com/ayseerdem027/customer-churn-prediction.git
 cd customer-churn-prediction
 pip install -r requirements.txt
