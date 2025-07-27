@@ -3,18 +3,18 @@ Customer Churn Prediction
 A machine learning project to predict telecom customer churn using logistic regression. Includes data preprocessing, modeling, and an interactive Streamlit app for real-time predictions.
 
 Features
-Data cleaning, encoding, and scaling
+- Data cleaning, encoding, and scaling
 
-Logistic regression model training and evaluation
+- Logistic regression model training and evaluation
 
-Saved model and preprocessor for reuse
+- Saved model and preprocessor for reuse
 
-Streamlit app for easy prediction input and results display
+- Streamlit app for easy prediction input and results display
 
 Installation:
-git clone https://github.com/ayseerdem027/customer-churn-prediction.git
-cd customer-churn-prediction
-pip install -r requirements.txt
+- git clone https://github.com/ayseerdem027/customer-churn-prediction.git
+- cd customer-churn-prediction
+- pip install -r requirements.txt
 
 Usage:
 Train the model:
