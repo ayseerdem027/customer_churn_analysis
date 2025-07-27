@@ -17,6 +17,7 @@ Installation:
 - pip install -r requirements.txt
 
 Usage:
+
 Train the model:
 python src/utils.py
 
@@ -24,6 +25,7 @@ Run the app:
 py -m streamlit run app/app.py
 
 Data:
+
 Uses the Telco Customer Churn dataset (Kaggle). Cleaned and preprocessed data stored in data/cleaned and data/processed.
 
 License
